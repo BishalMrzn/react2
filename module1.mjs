@@ -1,5 +1,5 @@
-import dz,{a,b,d}from './module2.mjs'
-console.log(dz);
-console.log(d);
-console.log(b);
-console.log(a);
+import ui,{a,b,c} from './module2.mjs'
+console.log(a)
+console.log(b)
+console.log(c)
+console.log(ui)

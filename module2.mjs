@@ -1,10 +1,9 @@
 const a="Bishal";
-const b="Ranjit";
-const c="Saroj";
-const d="Bhandari";
+const b="Saroj";
+const c="Ranjit";
+const d="Sarin";
 
-// export default a;
-export default c;
-export{a}
-export{b}
-export{d}
+export default d;
+export {a};
+export {b};
+export {c};
